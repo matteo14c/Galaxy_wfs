@@ -1,2 +1,2 @@
 # Galaxy_wfs
-galaxy_workflows
+Collection of useful workflows for the Galaxy Bioinformatics workflow manager. See: https://usegalaxy.org/
